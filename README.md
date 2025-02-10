@@ -1,6 +1,4 @@
-Below is the `.md` code for your GitHub README file:
 
-```markdown
 # Blood Donation Management System
 
 ## Main Objective
@@ -66,8 +64,3 @@ A portal that enables users to donate and receive blood at scheduled dates and t
 - **`RID`**: Primary key (auto-generated).
 - **`UserId`**: Foreign key referencing the `UserId` in the **User** table.
 - Other attributes are collected from user inputs and stored in the table.
-
----
-
-📌 _This project aims to streamline the blood donation and transfusion process, ensuring efficiency and ease of access for users in need._
-```
