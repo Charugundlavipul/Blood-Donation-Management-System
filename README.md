@@ -1,5 +1,5 @@
 
-# Blood Donation Management System
+# Life Drop (Blood Donation Management System)
 
 ## Main Objective
 A portal that enables users to donate and receive blood at scheduled dates and times while keeping track of blood stock levels for various blood groups in hospitals.
